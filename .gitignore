@@ -1,0 +1,11 @@
+.project
+.DS_Store
+bin
+gen
+out
+.classpath
+project.properties
+.settings
+.iml
+.ipr
+.iws
